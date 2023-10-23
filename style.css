@@ -1,0 +1,85 @@
+ #rouge {
+    background-color: red;
+    height: 50px;
+    margin-bottom: 10px;
+ }
+
+ #jaune {
+    background-color: yellow;
+    height: 150px;
+    margin-bottom: 10px;
+ }
+
+ /* ----------------------------------------------------------------- */
+
+.all {    
+    display: flex;
+    height: 300px;
+}
+
+.allGauche {
+    width: 50%;
+}
+
+.bleu {
+    background-color: blue;
+    height: 500px;
+}
+
+.allDroite {
+    justify-content: right;
+}
+
+.allDroiteHaut {
+    width: 50%;
+}
+
+#vert {
+    height: 250px;
+    margin-left: 10PX;
+    background-color: green;
+    width: 600px;
+}
+
+.allDroiteBas {
+    display: flex;
+}
+
+#orange {
+    background-color: orange;
+    height: 240px;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-top: 10px;
+    width: 205px;
+}
+
+#bleu2 {
+    background-color: rgb(60, 95, 220);
+    margin-top: 10px;
+    height: 125px;
+    width: 385px;
+}
+
+.blancEtNoir {
+    display: flex;
+}
+
+#blanc {
+    background-color: rgb(240, 240, 173);
+    height: 105px;
+    margin-top: 10px;
+    width: 192px;
+}
+
+#noir {
+    background-color: black;
+    height: 105px;
+    margin-top: 10px;
+    width: 192px;
+}
+
+
+
+
+
